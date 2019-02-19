@@ -3,9 +3,8 @@
 A simple example of retrieving live data with URLs. 
 The data is taken from Ford Gobike stations [live updated](https://gbfs.fordgobike.com/gbfs/fr/station_status.json) information.
 
-* Strings and string manipulation
+* JSON format data
 * User-defined functions and variables
-* Conditional statements (if/elif/else)
 * Loops
 
 
